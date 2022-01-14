@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { AppStateService } from '@c8y/ngx-components';
+// TODO: fix path resolving in tsconfig
 import { C8yUtilsService } from 'dist/c8y-utils';
 import { filter } from 'rxjs/operators';
 
